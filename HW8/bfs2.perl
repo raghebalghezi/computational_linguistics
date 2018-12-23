@@ -1,5 +1,4 @@
 # Example of breadth-first search of WordNet relations in Perl
-# Sandiway Fong, University of Arizona
 # Changes: 2016/4 'm@rk' instead of 'mark', sub found takes 2 args
 #
 # usage: bfs word#pos#sense word#pos#sense
